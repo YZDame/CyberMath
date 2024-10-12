@@ -18,7 +18,7 @@
 
 - 二试
 
-## ⚫BlackMath(稍后推出)
+## [⚫BlackMath](https://github.com/YZDame/BlackMath)
 
 - 高联真题集
 
