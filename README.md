@@ -7,7 +7,6 @@
 ## [🟢CyanMath](https://github.com/YZDame/CyanMath)
 
 - 主要以初中竞赛小蓝本为主要参考资料，用于初中竞赛班讲义
-- private🔒
 
 ## [🔵BlueMath](https://github.com/YZDame/BlueMath)
 
